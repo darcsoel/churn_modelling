@@ -18,7 +18,7 @@ authors = ["Ross <rostikvunarchuk@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.11"
-tensorflow = "^2.9.1"
+tensorflow = "^2.9.3"
 pandas = "^1.4.2"
 scikit-learn = "^1.1.1"
 PyYAML = "^6.0"
